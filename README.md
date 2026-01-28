@@ -31,9 +31,13 @@ High recall on fraud class after balancing, interactive demo.
 
 ▶️ How to Run 
 #```bash
+
 cd codsoft_task5
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
 
 About the Internship: 
 This is Task 5 of the CODSOFT Data Science Internship. I'm working on completing at least 3 tasks and will add more repositories.
