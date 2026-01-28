@@ -29,6 +29,9 @@ Python, Pandas, Scikit-learn, imbalanced-learn, Streamlit
 
 📈 Results  
 High recall on fraud class after balancing, interactive demo.
+- Improved fraud detection recall using SMOTE
+- Compared multiple models to select optimal performer
+- Built a live prediction web interface
 
 ▶️ How to Run 
 - #```bash
