@@ -30,13 +30,10 @@ Python, Pandas, Scikit-learn, imbalanced-learn, Streamlit
 High recall on fraud class after balancing, interactive demo.
 
 ▶️ How to Run 
-#```bash
-
-cd codsoft_task5
-
-pip install -r requirements.txt
-
-streamlit run app.py
+- #```bash
+- cd codsoft_task5
+- pip install -r requirements.txt
+- streamlit run app.py
 
 
 About the Internship: 
