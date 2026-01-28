@@ -14,6 +14,7 @@ Detect fraudulent credit card transactions on a highly imbalanced real-world dat
 📊 Dataset 
 - Anonymized credit card transactions  
 - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+- *Please Note: The dataset file for creditcard.csv is larger than 25 MB and tus cannot be uploaded.*
 
 ⚙️ Technologies  
 Python, Pandas, Scikit-learn, imbalanced-learn, Streamlit
